@@ -14,4 +14,11 @@
     <priority>0.8</priority>
     <image:image><image:loc>https://ytkavshapke.com/projects/scan_to_pdf/interface.png</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://ytkavshapke.com/projects/runo/runo.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://ytkavshapke.com/projects/runo/interface.png</image:loc></image:image>
+  </url>
 </urlset>
